@@ -1,6 +1,6 @@
 # Spatial
 1. 需要一台安装go语言的计算机，点开 https://golang.org，点击download go 安装
-2. 点开主题介绍，了解“prisoner’s Dilemma 的规则 
+2. 点开主题介绍，了解‘prisoner’s Dilemma’ 的规则 
 2. 打开终端，cd到这个文件夹
 3. 输入 go build
 4. 输入 ./spatial f100.txt 1.65 120
